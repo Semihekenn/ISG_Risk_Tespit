@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ISG Risk Tespit</string>
+    <string name="pleace_callendar">Lütfen Tarih Seçiniz</string>
+    <string-array name="list_olasilik">
+        <item>0.2</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="list_frekans">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="list_siddet">
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+        <item>15</item>
+        <item>40</item>
+        <item>100</item>
+    </string-array>
+
+</resources>
